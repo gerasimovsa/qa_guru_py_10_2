@@ -1,1 +1,1 @@
-# qa_guru_py_10
+# qa.guru homework - Lesson 2 
